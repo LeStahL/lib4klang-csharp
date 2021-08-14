@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>lib4klang_csharp</RootNamespace>
+    <RootNamespace>lib4klang</RootNamespace>
   </PropertyGroup>
 
 </Project>

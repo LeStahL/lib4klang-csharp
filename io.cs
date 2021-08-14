@@ -1,8 +1,15 @@
 ﻿using System;
+using System.IO;
 
-namespace lib4klang_csharp
-{
-    public class Class1
+
+
+    public class Patch13 : Patch
     {
+        // Patch13()
+    }
+
+    public class Instrument
+    {
+        
     }
 }
